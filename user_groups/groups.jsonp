@@ -617,6 +617,16 @@ process_groups([
     "lng":12.534632
 },
 {
+    "name":"Lyon Tech Hub : MUG Lyon, Software Crafters...",
+    "website":"http://lyontechhub.org/",
+    "location":"Lyon, France",
+    "contact":"contact@lyontechhub.org",
+    "fsharp_group":false,
+    "description":"Lyon Tech Hub is a group of IT communities around Lyon. Several groups already hosted some F# events. MUG Lyon is a Microsoft stacks oriented user group, opened to lots of different things: other technologies/languages, practices...Software Crafters host some Coding Dojos, F# is often represented.\r\n\r\nSome events are based on F# and we would love to have more F# talks. Speakers from everywhere welcome, as we often can cover some travel expenses.",
+    "lat": 45.75889,
+    "lng": 4.84139
+},
+{
     "name":"NashFP",
     "website":"http://t.co/YWramPSR",
     "location":"Nashville, TN, United States",
